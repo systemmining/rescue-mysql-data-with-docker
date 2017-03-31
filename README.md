@@ -1,5 +1,5 @@
 # rescue-mysql-data-with-docker
-
+![Recovering mysql database](http://blog.system-mining.xyz/content/images/2017/03/Recovering-mysql-data-using-docker.png)
 ### Usage
 - clone this repo
 ```
