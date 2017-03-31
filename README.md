@@ -11,3 +11,4 @@ git clone https://github.com/systemmining/rescue-mysql-data-with-docker.git
 - Output files stored at `sqlfiles`
 
 ### More info
+Read at my blog at [http://blog.system-mining.xyz/recovery-mysql-database-using-docker](http://blog.system-mining.xyz/recovery-mysql-database-using-docker/)

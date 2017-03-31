@@ -1,12 +1,12 @@
 version: '2'
 services:
   mysql:
-    image: mysql
+    image: mysql:YOUR_MYSQL_VERSION
     container_name: mysql_databases
     ports:
       - 3306:3306
     environment:
-      - MYSQL_ROOT_PASSWORD=123456
+      - MYSQL_ROOT_PASSWORD=gu123451
     volumes:
       - ./mysql:/var/lib/mysql:rw
       - ./sqlfiles:/tmp/sqlfiles
